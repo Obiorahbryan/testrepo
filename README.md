@@ -1,2 +1,2 @@
 # testrepo
-This is for Git / GitHub Coursera based project
+This is for Git / GitHub Coursera based project.
